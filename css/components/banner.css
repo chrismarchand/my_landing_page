@@ -1,0 +1,22 @@
+.banner{
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../../images/think.jpeg");
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.banner h1{
+  color: white;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.banner p{
+  color: white;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}

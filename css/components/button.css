@@ -1,0 +1,16 @@
+.btn-mine{
+ background-color: white;
+ border: 1px solid #106da3;
+ border-radius: 32px;
+ color: #106da3;
+ font-weight: lighter;
+ padding: 16px 36px;
+ opacity: 0,6;
+ display: inline-block;
+}
+
+.btn-mine:hover{
+ opacity: 1;
+ background-color: #106da3;
+ color: white;
+}
